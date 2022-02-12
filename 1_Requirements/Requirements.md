@@ -60,4 +60,30 @@
   5)showing the list of items in restaurent
     
   6)View total sales items
-   
+
+<h1>High Level Requirements
+
+<h4>   1) Admin Section  
+
+2) Customer Section
+ 
+3) Exit
+
+<h1>Low Level Requirements:
+
+<h4>  1) Display List of Items
+ 
+2) Add items in menu
+ 
+3)	Delete items in menu
+ 
+4) View your ordered items
+ 
+5)	View Total Sales
+ 
+6)	Place your order
+ 
+7)	Display Bill with amount
+ 
+8)	Back to main menu
+
