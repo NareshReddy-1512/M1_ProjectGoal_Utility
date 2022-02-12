@@ -1,4 +1,4 @@
-<h1> High Level Requirements<h1>
+<h1> High and Low Level Requirements<h1>
  
 
 ## Table 1: High level Requirements
@@ -12,9 +12,8 @@
 
  
 ## Table 2: Low level Requirements
- 
-<h2> Low Level Requirements
 
+ 
 | **Keys**|**Description**         |**Expected O/P** | **Actual O/P** | Execution Status |
 |---------|-------------------------|-----------------|----------------|------------------|
 |1        | Display List of Items   | SUCCESS         | SUCCESS        | PASS	            |
