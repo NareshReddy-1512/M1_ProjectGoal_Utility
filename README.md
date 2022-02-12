@@ -31,6 +31,13 @@
   <h1>**Weakness**
     
   <h4>Late payments occurs when the internet connection is slow.
+
+ <h1>Oppurtunities
+ 
+ <h4>It can be used in restaurants for ordering food, billing.
+ 
+ It provides the list of items in the restaurant with prices so that the customer can easily order the items accordingly
+
     
   <h1>*** 5'W, 1H***
   
