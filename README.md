@@ -64,4 +64,6 @@
     
   6)View total sales items
    
-
+<h1>Conclusion
+  
+<h4>I have desinged system which takes the necessary choices of the customer according to the various filter like price, category of the food. Then he is able to place the order accordingly and then the system calculates all the total of the order and then it can dispatch the bill that is handed over to the customer.
