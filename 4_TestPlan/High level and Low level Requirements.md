@@ -6,7 +6,7 @@
 
 | **Keys**|**Description**      |**Expected O/P** | **Actual O/P** | Execution Status |
 |---------|---------------------|-----------------|----------------|------------------|
-|1        | Admin Setion        | SUCCESS         | SUCCESS        | PASS	            |
+|1        | Admin Section        | SUCCESS         | SUCCESS        | PASS	            |
 |2        | Customer Section    | SUCCESS         | SUCCESS        | PASS	            |
 |3        | Exit                | SUCCESS         | SUCCESS        | PASS	            |
 
