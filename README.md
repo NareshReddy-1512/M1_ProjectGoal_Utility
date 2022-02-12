@@ -1,3 +1,6 @@
+![Code grade](https://api.codiga.io/project/31227/score/svg)
+
+![Code grade](https://api.codiga.io/project/31227/status/svg)
 <h1>                ******Restaurent Billing System******
   <h1>Introduction
   <h4>Restaurant Billing System is a computer based billing system with user friendly interface which automatically manages the billing process of the customer very easily taking only a short period of time.I have included 2 section one for Manager and other for customer.Each setion contains 5 modules for each.The customer has options like ordering food, list of items in the restaurent,Final bill. On the other hand the manager has options like number of items sold, add/delete items in menu,display order menu.
