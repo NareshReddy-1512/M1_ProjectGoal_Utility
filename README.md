@@ -2,6 +2,10 @@
   
 ![Code grade](https://api.codiga.io/project/31227/score/svg)
 ![Code grade](https://api.codiga.io/project/31227/status/svg)
+  
+<h1>Codacy Code Quality
+  
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/07fdb5b680c24634ad5f098e0e5944f6)](https://www.codacy.com/gh/NareshReddy-1512/M1_Restaurent-Billing-System_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NareshReddy-1512/M1_Restaurent-Billing-System_Utility&amp;utm_campaign=Badge_Grade)
 
   
   <h1>                ******Restaurent Billing System******
