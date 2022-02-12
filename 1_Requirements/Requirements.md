@@ -1,46 +1,63 @@
-<h1>Introduction
+ <h1>                ******Restaurent Billing System******
+  <h1>Introduction
   <h4>Restaurant Billing System is a computer based billing system with user friendly interface which automatically manages the billing process of the customer very easily taking only a short period of time.I have included 2 section one for Manager and other for customer.Each setion contains 5 modules for each.The customer has options like ordering food, list of items in the restaurent,Final bill. On the other hand the manager has options like number of items sold, add/delete items in menu,display order menu.
 <h1>Swot Analysis
   
-  <h2>Strengths
-        
-        To reduce workload to staff
-          
-        To reduce the delay in processing time.
-
-        To reduce the delay in bill generation.
-
-        To provide greater flexibility.  
+  <h1>**Strengths**
     
-        Make maintenance changes easy.
-
-  <h2>Weakness
-    
-     Late payments occurs when the internet connection is slow.
-    
-  <h2> 5'W, 1H
-    
-    what:  Restaurent Billing System
-    
-    Where: In Restaurents
-    
-    why:   To take orders from customers and generate Bills
-    
-    who:   Restaurent management
-    
-    When:  first step is to give order after that we can give the bill to the customer
-    
-    How:   Works based on users Inputs
   
-  <h3> Features:
+  <h4>1)To reduce workload to staff
+   
+ 
     
-    *Display Order Menu
+  2)To reduce the delay in processing time.
+
+  3)To reduce the delay in bill generation.
+
+  4)To provide greater flexibility.  
     
-    *place an order
+ 5)Make maintenance changes easy.
+
+  <h1>**Weakness**
     
-    *add/delete items in order list
+  <h4>Late payments occurs when the internet connection is slow.
+
+ <h1>Oppurtunities
+ 
+ <h4>It can be used in restaurants for ordering food, billing.
+ 
+ It provides the list of items in the restaurant with prices so that the customer can easily order the items accordingly
+
     
-    *generating bill
+  <h1>*** 5'W, 1H***
+  
+     
+  <h4>1)what:  Restaurent Billing System
+  
+ 
     
-    *showing the list of items in restaurent
+  2)Where: In Restaurents
+    
+  3)why:   To take orders from customers and generate Bills
+    
+  4)who:   Restaurent management
+    
+  5)When:  first step is to give order after that we can give the bill to the customer
+    
+  6)How:   Works based on users Inputs
+  
+  <h1> Features:
+    
+  
+  <h4>1)Display Order Menu
+    
+  2)place an order
+    
+  3)add/delete items in order list
+    
+  4)generating bill
+    
+  5)showing the list of items in restaurent
+    
+  6)View total sales items
    
